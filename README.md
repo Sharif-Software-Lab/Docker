@@ -57,6 +57,15 @@ Docker experiment for Software Enginnering Lab Course @ SUT.
 
 ## تعامل با داکر
 
+### نمایش imageها و containerها
+![image](./images/3-1.png)
+
+![iamge](./images/3-2.png)
+
+### اجرای دستور در container
+دستور زیر یک کاربر ادمین برای برنامه ایجاد می‌کند که دسترسی ورود به صفحه ادمین را دارد.
+
+![image](./images/3-3.png)
 
 ## پرسش‌ها
 
