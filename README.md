@@ -59,14 +59,23 @@ Docker experiment for Software Enginnering Lab Course @ SUT.
 
 
 در این بخش، با کمک برنامه‌ی postman اقدام به ارسال درخواست به برنامه کردیم تا هم کاربر جدید بسازیم، هم بعد از آن برای این کاربر ساخته شده یادداشت بسازیم. البته در این میان نیاز به لاگین کردن هم بود که خود postman در ادامه‌ی آن کوکی را ست کرد که باعث شد کاربر لاگین بماند. مراحل خواسته شده در صورت سوال به صورت زیر است:
+
 ساخت کاربر
+
+
 ![IMG_20240813_231353_338](https://github.com/user-attachments/assets/7609b90d-4076-4f61-b3b7-1d1f97cff1c8)
+
 ساخت متن اول
 
+
+
 ![IMG_20240813_231355_748](https://github.com/user-attachments/assets/f989e360-62a8-4624-bdbf-21902a744844)
+
 ساخت متن دوم
 
+
 ![IMG_20240813_231356_947](https://github.com/user-attachments/assets/4a36f6ea-67e6-4f74-841c-86e86c72da55)
+
 گرفتن متن‌های ساخته شده:
 
 ![IMG_20240813_231359_482](https://github.com/user-attachments/assets/27d0b9d8-1ad6-43e6-a8b0-4cdeb3f5d051)
