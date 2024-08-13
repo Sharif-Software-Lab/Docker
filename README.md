@@ -20,6 +20,8 @@ Docker experiment for Software Enginnering Lab Course @ SUT.
 
 #### وظایف زیر را توضیح دهید:
 
+<div dir="rtl">
+
 - image
 
     داکر ایمیج 
@@ -53,6 +55,8 @@ Docker experiment for Software Enginnering Lab Course @ SUT.
 - container
 
     کانتینر یک واحد استاندارد نرم افزار است که کد و تمام وابستگی های آن را بسته بندی می کند تا برنامه به سرعت و با اطمینان از یک محیط محاسباتی به محیط دیگر اجرا شود. یک docker container image یک package نرم افزاری سبک وزن، مستقل و قابل اجرا است که شامل همه چیزهایی است که برای اجرای یک برنامه لازم است: کد، زمان اجرا، ابزارهای سیستم، کتابخانه های سیستم و تنظیمات.
+
+</div>
 
 #### کاربرد kubernetes:
 
